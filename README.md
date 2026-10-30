@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Vaileks/Vaileks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Vaileks
 
-Here are some ideas to get you started:
+**Java & Kotlin Developer**  
+Technical administrator of large Minecraft servers
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`JAVA` · `KOTLIN` · `MINECRAFT`
+
+</div>
+
+---
+
+### Code & servers
+
+I develop in **Java** and **Kotlin** and handle technical administration for large **Minecraft** servers.
+
+| Development | Administration |
+| :--- | :--- |
+| Java & Kotlin | Minecraft servers |
+
+### Let’s connect
+
+For development and server administration enquiries:  
+**[Message me on Telegram → @Vaileksdev](https://t.me/Vaileksdev)**
